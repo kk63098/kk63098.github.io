@@ -16,7 +16,7 @@
     ],
     "sites": [
         {
-            "key": "豆瓣推荐",
+            "key": "森林推荐",
             "name": "森林推荐",
             "type": 3,
             "api": "csp_DouDou",
@@ -25,8 +25,8 @@
             "filterable": 0
         },
         {
-            "key": "玩偶",
-            "name": "玩偶4K",
+            "key": "森林4K",
+            "name": "森林4K",
             "type": 3,
             "api": "csp_WoGG",
             "searchable": 1,
