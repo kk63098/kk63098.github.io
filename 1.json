@@ -16,8 +16,8 @@
     ],
     "sites": [
         {
-            "key": "森林4K影院",
-            "name": "森林4K影院",
+            "key": "豆瓣推荐",
+            "name": "豆瓣推荐",
             "type": 3,
             "api": "csp_DouDou",
             "searchable": 0,
@@ -25,8 +25,8 @@
             "filterable": 0
         },
         {
-            "key": "森林4K",
-            "name": "森林4K",
+            "key": "玩偶4K",
+            "name": "玩偶4K",
             "type": 3,
             "api": "csp_WoGG",
             "searchable": 1,
