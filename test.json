@@ -16,8 +16,8 @@
     ],
     "sites": [
         {
-            "key": "测试推荐",
-            "name": "测试推荐",
+            "key": "森林影院",
+            "name": "森林影院",
             "type": 3,
             "api": "csp_DouDou",
             "searchable": 0,
