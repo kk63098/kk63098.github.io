@@ -344,7 +344,7 @@
         },
         {
             "key": "PanSou",
-            "name": "盘搜搜索",
+            "name": "盘搜",
             "type": 3,
             "api": "csp_PanSou",
             "searchable": 1,
@@ -354,7 +354,7 @@
         },
         {
             "key": "UpYun",
-            "name": "云搜索",
+            "name": "云搜",
             "type": 3,
             "api": "csp_UpYun",
             "searchable": 1,
@@ -411,20 +411,6 @@
             "quickSearch": 0,
             "filterable": 0,
             "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k|fhd"
-        },
-        {
-            "key": "Bili",
-            "name": "Bili",
-            "type": 3,
-            "api": "csp_Bili",
-            "style": {
-                "type": "rect",
-                "ratio": 1.597
-            },
-            "searchable": 1,
-            "quickSearch": 0,
-            "changeable": 0,
-            "ext": "https://xhdwc.tk/json/bilibili.json"
         },
         {
             "key": "课堂教育",
