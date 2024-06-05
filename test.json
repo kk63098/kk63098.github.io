@@ -72,7 +72,7 @@
         },
         {
             "key": "比特Bt",
-            "name": "Bt",
+            "name": "比特Bt",
             "type": 3,
             "api": "csp_Bttwoo",
             "searchable": 1,
