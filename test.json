@@ -605,8 +605,7 @@
                 "更新"
             ]
         }
-    ]
-
+    ],
     "lives": [
         {
             "name": "tvlive",
@@ -620,5 +619,5 @@
             "type": 0,
             "url": "https://kk63098.github.io/xiutan.m3u"
         }
-    ],
+    ]
 }
