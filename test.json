@@ -115,6 +115,47 @@
             "changeable": 0,
             "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
         },
+         {
+      "key": "csp_MIPanSo",
+      "name": "🦋米搜",
+      "type": 3,
+      "api": "csp_MIPanSo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "pan": "quark",
+        "quarkCookie": "http://127.0.0.1:9978/file/fatcat/cookie.txt",
+        "from": "4k|auto|fhd"
+      }
+    },
+    {
+      "key": "QuarkPanso",
+      "name": "🐺夸搜",
+      "type": 3,
+      "api": "csp_PanSearch",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": {
+        "pan": "quark",
+        "quarkCookie": "http://127.0.0.1:9978/file/fatcat/cookie.txt",
+        "from": "4k|auto|fhd"
+      }
+    },
+    {
+      "key": "push_agent",
+      "name": "🍭推送",
+      "type": 3,
+      "api": "csp_Push",
+      "searchable": 0,
+      "quickSearch": 0,
+      "ext": {
+        "aliToken": "http://127.0.0.1:9978/file/fatcat/token.txt",
+        "quarkCookie": "http://127.0.0.1:9978/file/fatcat/cookie.txt",
+        "from": "4k|auto|fhd"
+      }
+    },
         {
             "key": "荐片",
             "name": "荐片p2p",
