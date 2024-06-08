@@ -11,8 +11,8 @@
             "filterable": 0
         },
         {
-            "key": "玩偶4K",
-            "name": "玩偶4K",
+            "key": "🚀玩偶4K",
+            "name": "🚀玩偶4K",
             "type": 3,
             "api": "csp_WoGG",
             "searchable": 1,
@@ -27,8 +27,8 @@
             }
         },
         {
-            "key": "快看",
-            "name": "快看",
+            "key": "🦋快看",
+            "name": "🦋快看",
             "type": 3,
             "api": "csp_Kkys",
             "timeout": 15,
@@ -37,8 +37,8 @@
             "changeable": 1
         },
         {
-            "key": "苹果",
-            "name": "苹果",
+            "key": "🐺苹果",
+            "name": "🐺苹果",
             "type": 3,
             "api": "csp_LiteApple",
             "searchable": 1,
@@ -46,8 +46,8 @@
             "changeable": 1
         }, 
         {
-            "key": "南瓜",
-            "name": "南瓜",
+            "key": "🎃南瓜",
+            "name": "🎃南瓜",
             "type": 3,
             "api": "csp_NanGua",
             "timeout": 15,
@@ -57,24 +57,14 @@
             "changeable": 1
         },
         {
-            "key": "比特Bt",
-            "name": "比特Bt",
+            "key": "🐼比特Bt",
+            "name": "🐼比特Bt",
             "type": 3,
             "api": "csp_Bttwoo",
             "searchable": 1,
             "quickSearch": 1,
             "changeable": 1
-        },        
-        {
-            "key": "小点",
-            "name": "小点",
-            "type": 3,
-            "api": "csp_Xdys",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 0
-        },
+        },     
         {
             "key": "PanSou",
             "name": "盘搜4K",
@@ -117,7 +107,7 @@
         },
          {
       "key": "csp_MIPanSo",
-      "name": "🦋米搜",
+      "name": "米搜4K",
       "type": 3,
       "api": "csp_MIPanSo",
       "searchable": 1,
@@ -131,7 +121,7 @@
     },
     {
       "key": "QuarkPanso",
-      "name": "🐺夸搜",
+      "name": "夸搜4K",
       "type": 3,
       "api": "csp_PanSearch",
       "searchable": 1,
@@ -177,6 +167,16 @@
             "quickSearch": 1,
             "changeable": 1,
             "ext": "https://www.80yy3.com/"
+        },   
+        {
+            "key": "小点",
+            "name": "小点【不推荐】",
+            "type": 3,
+            "api": "csp_Xdys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0
         },
         {
             "key": "原创",
@@ -201,7 +201,7 @@
         },
         {
             "key": "厂长",
-            "name": "🎧厂长",
+            "name": "厂长",
             "type": 3,
             "api": "csp_XBPQ",
             "timeout": 15,
@@ -234,7 +234,7 @@
         },
         {
             "key": "萌米",
-            "name": "萌米",
+            "name": "萌米【不推荐】",
             "type": 3,
             "api": "csp_AppTT",
             "timeout": 15,
