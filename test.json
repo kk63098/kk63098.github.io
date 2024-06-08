@@ -37,8 +37,8 @@
             "changeable": 1
         },
         {
-            "key": "🐺苹果",
-            "name": "🐺苹果",
+            "key": "苹果",
+            "name": "🍎苹果",
             "type": 3,
             "api": "csp_LiteApple",
             "searchable": 1,
