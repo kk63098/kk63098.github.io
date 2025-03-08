@@ -82,26 +82,6 @@
             "changeable": 1
         },
         {
-            "key": "苹果",
-            "name": "🍎苹果",
-            "type": 3,
-            "api": "csp_LiteApple",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        }, 
-        {
-            "key": "🎃南瓜",
-            "name": "🎃南瓜",
-            "type": 3,
-            "api": "csp_NanGua",
-            "timeout": 15,
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1
-        },
-        {
             "key": "🐼比特Bt",
             "name": "🐼比特Bt",
             "type": 3,
