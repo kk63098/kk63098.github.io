@@ -1,21 +1,5 @@
 {
   "spider":"https://raw.kkgithub.com/2hacc/TVBox/main/jar/tvbox.txt;md5;265301f463ec681dcbba91897f20f08b",
-  "logo":"https://raw.kkgithub.com/2hacc/TVBox/main/logo.png",
-  "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
-  "lives":[
-        {
-            "name": "tvlive",
-            "type": 0,
-            "url": "https://kk63098.github.io/1.txt",
-            "playerType": 2
-        },
-        {
-            "name": "嗅探",
-            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",
-            "type": 0,
-            "url": "https://kk63098.github.io/1.m3u"
-        }
-    ]
   "sites":[
     {"key":"豆瓣","name":"森林影院","type": 3,"api":"csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
     {"key":"玩偶哥","name":"停用-玩偶）","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto","siteUrl":"https://www.wogg.net/","danMu":"弹"}},
