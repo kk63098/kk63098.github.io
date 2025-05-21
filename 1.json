@@ -3,6 +3,13 @@
   "wallpaper": "https://api.btstu.cn/sjbz/api.php",
   "sites": [
     {
+      "key": "豆豆",
+      "name": "🌈豆瓣┃请测试完删除处理",
+      "type": 3,
+      "api": "csp_Douban",
+      "searchable": 0
+    },
+    {
       "key": "csp_Netfixtv",
       "name": "💌至臻┃4K弹幕",
       "type": 3,
@@ -27,31 +34,9 @@
         }
       }
     },
-            {
-      "key": "csp_Bili",
-      "name": "💌哔哩",
-      "type": 3,
-      "api": "csp_Bili",
-      "searchable": 1,
-      "ext": {
-        "json": "https://ai-search-static.dangbei.net/db-ai-search/2025/04/14/1911670191528480768/1744612665263_bili.json",
-        "cookie": ""
-      },
-      "style": {
-        "type": "rect",
-        "ratio": 1.333
-      }
-    },
-           {
-      "key": "豆豆",
-      "name": "豆瓣",
-      "type": 3,
-      "api": "csp_Douban",
-      "searchable": 1,
-    },   
     {
       "key": "csp_Netfixtv2",
-      "name": "✈️二小4K",
+      "name": "✈️二小┃4K弹幕",
       "type": 3,
       "changeable": "0",
       "quickSearch": 1,
@@ -76,7 +61,7 @@
     },
     {
       "key": "csp_Wogg",
-      "name": "🧸玩偶4K",
+      "name": "🧸玩偶┃4K弹幕",
       "type": 3,
       "api": "csp_Wogg",
       "changeable": "0",
@@ -84,7 +69,21 @@
       "filterable": 1,
       "ext": "Yu2Y3Q8tqDTqZ+GCqfQZz8i/vsP/tl9O+/0ZjpgnBg+2RfEareoNuL/Pl5M72Qa7kLxIiSX9vw43FPihBY2n/maEHOEs7WGA2T/7NojmydALUIhhnc3jYOnh2KHHfokMo6IosAN/HGNN8Je7i0Q/rCJt+qvuglBYeJM+3KOvqRoAjFEtGWMIO4HmbteO16itktROL+xInERNUR0+M+8v3YhuLM3LsniomLauA0b+XyNqqjoTS9lBZFYqI3Pi8Gvi/QeEKbT8gJfKPIrDFcmkRYA3Otk80eCyEibHw3hYvexl7bB9NLbGbhaNkBprzdTykwjP/eLv1ewrxm8G9Z/CR10iCP2H0jNgk66cr9pJcmBlI8E111c+8rO5tj/CneVAB47YuwlWLYTe7hGNJq9ImoLPakTrArhHE3tO1kGvUNSSuBpsHgyWKM9yLo6mMxSdRCql805ssvng9k6Ts+uxXTYGsF5ChBMoPo9piGtr5n1uWfLx7NH6OmBdJKKxHEq1TugmFEnVBAGHHEL2SqRt+g=="
     },
-
+    {
+      "key": "csp_Bili",
+      "name": "💯哔哩┃哔哩",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 1,
+      "ext": {
+        "json": "https://ai-search-static.dangbei.net/db-ai-search/2025/04/14/1911670191528480768/1744612665263_bili.json",
+        "cookie": ""
+      },
+      "style": {
+        "type": "rect",
+        "ratio": 1.333
+      }
+    },
     {
       "key": "QD4K",
       "name": "🐷猪猪4K",
