@@ -6,7 +6,7 @@
       "name": "💯至臻4K",
       "type": 3,
       "changeable": "0",
-      "quickSearch": 0
+      "quickSearch": 0,
       "api": "csp_Duopan",
       "filterable": 1,
       "ext": {
@@ -46,7 +46,7 @@
       "name": "豆瓣",
       "type": 3,
       "api": "csp_Douban",
-      "searchable": 2,
+      "searchable": 1,
     },   
     {
       "key": "csp_Netfixtv2",
