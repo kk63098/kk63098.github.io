@@ -1,12 +1,13 @@
 {
-    "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747143206034/0513-1.txt;md5;bcb27d2740df8d21bfc49c507432663a",
-    "sites": [
-         {
+  "spider": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747143206034/0513-1.txt;md5;bcb27d2740df8d21bfc49c507432663a",
+  "wallpaper": "https://api.btstu.cn/sjbz/api.php",
+  "sites": [
+    {
       "key": "csp_Netfixtv",
-      "name": "💯至臻4K",
+      "name": "💌至臻┃4K弹幕",
       "type": 3,
       "changeable": "0",
-      "quickSearch": 0,
+      "quickSearch": 1,
       "api": "csp_Duopan",
       "filterable": 1,
       "ext": {
