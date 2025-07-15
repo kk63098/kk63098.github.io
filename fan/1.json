@@ -21,7 +21,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext":"./json/zz.json",
+      "ext": "./json/zz.json?",
     },
   {
       "key": "csp_Netfixtv",
