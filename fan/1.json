@@ -35,7 +35,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./fm.jar;md5;17aa072ee78308bfbc5ecdfbb7e3d425",
       "ext": {
         "host": "https://qjappcms.cs4k.top",
         "api": "/api.php/qijiappapi",
