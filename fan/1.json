@@ -12,30 +12,16 @@
             "quickSearch": 0,
             "filterable": 0
         },
- {
-      "key": "csp_Netfixtv",
-      "name": "💯至臻4K",
+    {
+      "key": "至臻",
+      "name": "💿至臻🔹盘4K",
       "type": 3,
-      "changeable": "0",
+      "api": "csp_PanWebShare",
+      "searchable": 1,
       "quickSearch": 1,
-      "api": "csp_Duopan",
       "filterable": 1,
-      "ext": {
-        "site_urls": [
-          "https://mihdr.top",
-          "https://www.mihdr.top",
-          "http://www.miqk.cc",
-          "https://www.zhizhenpan.fun"
-        ],
-        "url_key": "Netfixtv",
-        "token": "",
-        "ucCookie": "",
-        "quarkCookie": "",
-        "threadinfo": {
-          "chunksize": 512,
-          "threads": 16
-        }
-      }
+      "changeable": 1,
+      "ext": "./json/zz.json?"
     },
         {
             "key": "玩偶",
