@@ -374,7 +374,7 @@
         },
         {
             "key": "Aliso",
-            "name": "🐟盘搜4K",
+            "name": "⏮️盘搜4K",
             "type": 3,
             "api": "csp_PanSearch",
             "searchable": 1,
