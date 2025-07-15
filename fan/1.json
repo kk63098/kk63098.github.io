@@ -12,7 +12,7 @@
             "quickSearch": 0,
             "filterable": 0
         },
-    {
+   {
       "key": "至臻",
       "name": "💿至臻🔹盘4K",
       "type": 3,
@@ -21,7 +21,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "ext": "./json/zz.json?",
+      "ext": "./json/zz.json?"
     },
   {
       "key": "csp_Netfixtv",
