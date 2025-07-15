@@ -516,26 +516,18 @@
             "changeable": 0
         }
     ],
-    "logo": "https://s1.imagehub.cc/images/2025/01/15/e8b21391c58ed454c13ade26c003e857.gif",
     "lives": [
         {
-            "name": "牛播一（仅新版影视仓/ok影视）",
+            "name": "tvlive",
             "type": 0,
-            "playerType": 2,
-            "url": "http://rihou.cc:555/gggg.nzk",
-            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"
+            "url": "https://kk63098.github.io/1.txt",
+            "playerType": 2
         },
         {
-            "name": "V4聚合（卡顿请按左/右键换线）",
+            "name": "嗅探",
+            "ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0",
             "type": 0,
-            "url": "./lives/V4聚合（卡顿请按左/右键换线）.txt",
-            "epg": ""
-        },
-        {
-            "name": "平台直播",
-            "type": 0,
-            "url": "./lives/平台直播.txt",
-            "epg": ""
+            "url": "https://kk63098.github.io/1.m3u"
         }
     ]
 }
