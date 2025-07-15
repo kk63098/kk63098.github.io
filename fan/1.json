@@ -12,6 +12,32 @@
             "quickSearch": 0,
             "filterable": 0
         },
+ {
+      "key": "csp_Netfixtv",
+      "name": "💯至臻4K",
+      "type": 3,
+      "changeable": "0",
+      "quickSearch": 1,
+      "api": "csp_Duopan",
+      "filterable": 1,
+      "jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1747143206034/0513-1.txt;md5;bcb27d2740df8d21bfc49c507432663a",
+      "ext": {
+        "site_urls": [
+          "https://mihdr.top",
+          "https://www.mihdr.top",
+          "http://www.miqk.cc",
+          "https://www.zhizhenpan.fun"
+        ],
+        "url_key": "Netfixtv",
+        "token": "",
+        "ucCookie": "",
+        "quarkCookie": "",
+        "threadinfo": {
+          "chunksize": 512,
+          "threads": 16
+        }
+      }
+    },
         {
             "key": "玩偶",
             "name": "👽玩偶4K",
@@ -27,7 +53,7 @@
                 "danMu": "弹"
             }
         },
-      {
+    {
       "key": "仓鼠app",
       "name": "🐹仓鼠4K",
       "type": 3,
@@ -516,7 +542,7 @@
             "changeable": 0
         }
     ],
-    "lives": [
+"lives": [
         {
             "name": "tvlive",
             "type": 0,
